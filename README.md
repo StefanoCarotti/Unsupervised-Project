@@ -20,3 +20,6 @@ The goal is to analyze patterns in the dataset and identify any anomalies or nat
 ## Conclusion
 
 Through these methods, I analyze and understand the underlying structure of the data, identifying key patterns and anomalies.
+
+
+### For additional information on the work the paper of the project is available as exam.pdf
